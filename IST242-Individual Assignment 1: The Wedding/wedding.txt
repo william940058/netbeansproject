@@ -1,0 +1,6 @@
+The bride name is: angela
+The groom name is: tony
+The total number of attendees in the wedding is: 3
+The square footage of the location is: 30.0
+The names of everyone in the wedding party are:[will, james, shirley]
+The number of attendees per square foot of the location is:0.1

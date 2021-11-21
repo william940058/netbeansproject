@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="IST412AlphaCare.jnlp">
+  <information>
+    <title>IST412AlphaCare</title>
+    <vendor>Dell</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="IST412AlphaCare.jar" size="54502" download="eager" />
+    <jar href="lib/sqlite-jdbc-3.23.1.jar" size="6733696" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="IST412AlphaCare" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="ist412alphacare.IST412AlphaCare"  name="IST412AlphaCare" />
+  <update check="always"/>
+</jnlp>
